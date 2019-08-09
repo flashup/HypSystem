@@ -22,3 +22,5 @@ node_modules
 
 #iOS binaries
 *.a
+
+project/obj

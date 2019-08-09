@@ -1,3 +1,6 @@
+Fork changes:
+* removed DateTools and joda-time dependency
+
 HypSystem
 =============================
 A native extension for OpenFL
